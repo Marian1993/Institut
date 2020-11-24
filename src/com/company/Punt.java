@@ -28,4 +28,9 @@ public class Punt {
     public void setY(double y) {
         this.y = y;
     }
+
+    public double distancia(Punt punt){
+
+        return Math.sqrt((x - punt.getX())  * (y - punt.getY()));
+    }
 }

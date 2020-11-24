@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Alumne alumne=new Alumne("Marta",14,788,new double []{5,7,3,8});
+        /*Alumne alumne=new Alumne("Marta",14,788,new double []{5,7,3,8});
         Alumne alumne1=new Alumne("David",14,778,new double []{6,7,7,8});
         Alumne alumne2=new Alumne("Pedro",14,893,new double []{5,5,3,4});
         Alumne alumne3=new Alumne("Maria",14,988,new double []{5,7,6,5});
@@ -32,7 +32,14 @@ public class Main {
         assignatura.nouMatriculat(alumne6);
         //assignatura.printAlumne();
         assignatura.baixaAlumne(alumne6);
-        assignatura.printAlumne();
+        assignatura.printAlumne();*/
+
+        /*Punt punt= new Punt(2.8,7.9);
+        Punt punt1= new Punt(7.8,12.9);
+
+        System.out.println(punt.distancia(punt1));*/
+
+
 
     }
 }
